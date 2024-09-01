@@ -33,4 +33,4 @@ flutter:
     platforms:
       web:
         pluginClass: LocationWebPlugin
-        fileName: location_web.dart
+        fileName: location_web2.dart
